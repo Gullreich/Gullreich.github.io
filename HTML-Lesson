@@ -1,0 +1,25 @@
+<Body> Lessong Outcome </Body>
+<br> 
+<h1> The Basics </h1>
+<br> 
+<p> <ol> 
+    <li> Setting up our dev environment </li>
+    <li> How the internet works </li>
+    <li> What is GIT and Github </li>
+    <li> MDN </li>
+</ol> </p>
+<br>
+<h1> HTML </h1>
+<br>
+<p> <ul> 
+<li> HTML: stands for <strong> Hyper Text Markup Language </strong> </li>
+<li> Basic Tags: </li> 
+</ul> 
+<ol> 
+    <li> Doctype </li>
+    <li> HTML </li>
+    <li> Head </li>
+</ol>
+<ul> <em> Lists </em> </ul>
+</p>
+
