@@ -16,6 +16,16 @@ h1 {
   text-align: center;
   color: #333333;
 }
+
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-weight:400px;
+  letter-spacing: 2px;
+  font-size:15px;
+  text-align: center;
+  color: #333333;
+}
+
 p {
   font-family: 'Lato', sans-serif;
   letter-spacing: 1px;
