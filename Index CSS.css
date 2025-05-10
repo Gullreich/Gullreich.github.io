@@ -1,3 +1,10 @@
+.waves {
+    background: fixed;
+}
+ h1 {
+    font-size: 20;
+ }
+body { 
 body {
   margin:0;
 }
@@ -92,4 +99,5 @@ p {
   h1 {
     font-size:24px;
   }
+};
 }
