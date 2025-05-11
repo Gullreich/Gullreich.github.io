@@ -15,12 +15,13 @@ body {
 }
 
 h1 {
+  Border-bottom: 10px rgb(233, 220, 250) dashed; padding: 20px;
   font-family: 'Lato', sans-serif;
-  font-weight: bold ;
-  letter-spacing: 2px;
-  font-size:48px;
+  font-weight: bolder ;
+  letter-spacing: 4px;
+  font-size:40px;
   text-align: center;
-  color: #c67eee;
+  color: #a36dbc;
 }
 
 h3 {
