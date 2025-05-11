@@ -40,3 +40,11 @@ color: rgb(236, 214, 241);
     color: rgb(255, 217, 190);
 }
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
