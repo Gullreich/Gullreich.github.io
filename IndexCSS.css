@@ -33,6 +33,19 @@ h3 {
   color: #9145ac;
 }
 
+h4 {
+  font-family: 'Lato', sans-serif;
+  font-weight: bold ;
+  letter-spacing: 2px;
+  font-size: 15px;
+  color: #d29de5;
+  text-align: center;
+  border-top: dashed;
+  border-bottom: dashed;
+  border-width: 5px;
+  padding: 10px;
+}
+
 
 h2 {
   font-family:'Lato', sans-serif; 
